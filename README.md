@@ -1,6 +1,6 @@
 ### Hola !! 👋🔭
 
-![Logo de GitHub](Soy Rina![Abstract Technology Profile LinkedIn Banner](https://github.com/Rinaplata/Rinaplata/assets/55161289/2f46b784-9bdf-4f3b-b8b8-e6053690e252)
+Soy Rina![Abstract Technology Profile LinkedIn Banner](https://github.com/Rinaplata/Rinaplata/assets/55161289/2f46b784-9bdf-4f3b-b8b8-e6053690e252)
 
 
 ## Introducción 👩‍💻
