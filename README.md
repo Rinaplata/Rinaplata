@@ -27,9 +27,9 @@ Soy Rina![Abstract Technology Profile LinkedIn Banner](https://github.com/Rinapl
 
 - **Angular** construyendo interfaces de usuario dinámicas y receptivas para aplicaciones web modernas.
  
-- **FestAPI ** Consumo apis
+- **FestAPI** Consumo apis
 
-- **Java ** Conocimientos Basico de Java
+- **Java** Conocimientos Basico de Java
 
 ## Mis Roles de Embajadora 👯
 ### Embajadora de Women Techmakers
