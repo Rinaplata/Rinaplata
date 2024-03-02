@@ -23,8 +23,6 @@ Soy Rina![Abstract Technology Profile LinkedIn Banner](https://github.com/Rinapl
 
 - **JavaScript:** JavaScript es mi lenguaje principal para mejorar la funcionalidad e interactividad de las páginas web.
 
-- **React:** Me especializo en React, construyendo interfaces de usuario dinámicas y receptivas para aplicaciones web modernas.
-
 - **Angular** construyendo interfaces de usuario dinámicas y receptivas para aplicaciones web modernas.
  
 - **Festapi** Visualizacion 
